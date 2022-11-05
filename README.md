@@ -1,6 +1,7 @@
 - 👋 Olá, sou o Matheus Serafim.
-- :writing_hand: Estou estudando no terceiro ano do curso técnico de informática no IFSul - Câmpus Sapucaia do Sul, e também estou no segundo ano de estudos de inglês na Wizard.
-- 🌱 Atualmente estou aprendendo sobre Java e banco de dados.
+- :writing_hand: Estou estudando no último ano do curso técnico de informática no IFSul - Câmpus Sapucaia do Sul
+- 
+- 🌱 Atualmente estou aprendendo sobre Java, banco de dados, c#, .NET e React.
 
 - 📫 Onde me encontrar::e-mail: matheus.serafim.po@gmail.com
 
