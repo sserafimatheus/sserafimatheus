@@ -1,5 +1,4 @@
 - 👋 Olá, sou o Matheus Serafim.
-- :writing_hand: Estou estudando no último ano do curso técnico de informática no IFSul - Câmpus Sapucaia do Sul
 - 
 - 🌱 Atualmente estou aprendendo sobre Java, banco de dados, c#, .NET e React.
 
