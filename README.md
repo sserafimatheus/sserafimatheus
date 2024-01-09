@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Matheus Serafim.
 - 
-- 🌱 Atualmente estou aprendendo sobre Java, banco de dados, c#, .NET e React.
+- 🌱 Atualmente estou desenvolvendo mnhas habilidades de Java, banco de dados, c#, .NET e React.
 
 - 📫 Onde me encontrar::e-mail: matheus.serafim.po@gmail.com
 
